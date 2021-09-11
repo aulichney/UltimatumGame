@@ -24,7 +24,9 @@
 
 * For each combination I output a plot showing my total profit, opponent average profit, and difference in profit over 100,000 trials: 
 * ![Comparison](https://user-images.githubusercontent.com/65736586/132957851-d0664520-8593-4fed-9dd6-8c18b2c3857b.png)
-* For each combination I also output the distribution of the difference in profits. The average of that value is what I use to ultimately select the best model.
+
+
+* For each combination I output the distribution of the difference in profits. The average of that value is what I use to ultimately select the best model.
 * ![Histogram](https://user-images.githubusercontent.com/65736586/132957874-fc78488c-1987-4639-81f3-bf2d916f4132.png)
 
 
