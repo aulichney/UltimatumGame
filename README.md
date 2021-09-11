@@ -35,10 +35,11 @@
 * I compare the results of the randomly generated samples as well as the samples generated from a normal distribution to ultimately determine which combination is most likely to outperform those of my opponents. I visualize the 3 dimensional data as a heatmap: 
 
 #### Randomly Generated: 
-![randomheatmap](https://user-images.githubusercontent.com/65736586/132958019-472e6771-9602-4b70-a857-3bce1d55d894.png)
+![randomheatmap](https://user-images.githubusercontent.com/65736586/132958485-476c19d6-d2c9-494e-be88-09050dd40cb2.png)
+
 
 #### Normal Distribution Generated:
-![normalheatmap](https://user-images.githubusercontent.com/65736586/132958023-e54638cd-fe99-4398-8169-184d62455171.png)
+![normalheatmap](https://user-images.githubusercontent.com/65736586/132958488-36360853-b105-42af-a7c2-448ff2005a45.png)
 
 
 
