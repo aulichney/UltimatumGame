@@ -23,11 +23,23 @@
 ![Reserve](https://user-images.githubusercontent.com/65736586/132957826-7c65cac1-3ee5-457a-9242-63841c9c6fc1.png)
 
 * For each combination I output a plot showing my total profit, opponent average profit, and difference in profit over 100,000 trials: 
-* ![Comparison](https://user-images.githubusercontent.com/65736586/132957851-d0664520-8593-4fed-9dd6-8c18b2c3857b.png)
+ ![Comparison](https://user-images.githubusercontent.com/65736586/132957851-d0664520-8593-4fed-9dd6-8c18b2c3857b.png)
 
 
 * For each combination I output the distribution of the difference in profits. The average of that value is what I use to ultimately select the best model.
-* ![Histogram](https://user-images.githubusercontent.com/65736586/132957874-fc78488c-1987-4639-81f3-bf2d916f4132.png)
+ ![Histogram](https://user-images.githubusercontent.com/65736586/132957874-fc78488c-1987-4639-81f3-bf2d916f4132.png)
+
+* The difference data for each possible combination is outputted numerically and can be found in the repository files. 
+
+## Results:
+* I compare the results of the randomly generated samples as well as the samples generated from a normal distribution to ultimately determine which combination is most likely to outperform those of my opponents. I visualize the 3 dimensional data as a heatmap: 
+
+#### Randomly Generated: 
+![randomheatmap](https://user-images.githubusercontent.com/65736586/132958019-472e6771-9602-4b70-a857-3bce1d55d894.png)
+
+#### Normal Distribution Generated:
+![normalheatmap](https://user-images.githubusercontent.com/65736586/132958023-e54638cd-fe99-4398-8169-184d62455171.png)
+
 
 
 
